@@ -1,5 +1,0 @@
-
-message DatabaseConfig {
-	optional string address = 1 [default = localhost];
-	optional int64 = 2 [default = 10808];
-}

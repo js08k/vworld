@@ -2,4 +2,6 @@ TEMPLATE = subdirs
 
 CONFIG += ordered
 
-SUBDIRS +=  \
+SUBDIRS += \
+    libraries \
+    viewclient
